@@ -2,13 +2,10 @@
   PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
 
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>개인정보처리방침</title>
-</head>
-
 <body>
   <p>
+    <strong>■ 개인정보처리방침</strong>
+    <br /><br />
   <p class="ls2 lh6 bs5 ts4">
     <em class="emphasis">
       <주식 물타기 계산기>
