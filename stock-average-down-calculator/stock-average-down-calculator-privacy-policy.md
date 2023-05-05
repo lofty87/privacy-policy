@@ -4,7 +4,7 @@
 
 <body>
   <p>
-    <strong>■ 개인정보처리방침</strong>
+    <strong>■ 개인정보처리방</strong>
     <br /><br />
   <p class="ls2 lh6 bs5 ts4">
     <em class="emphasis">
